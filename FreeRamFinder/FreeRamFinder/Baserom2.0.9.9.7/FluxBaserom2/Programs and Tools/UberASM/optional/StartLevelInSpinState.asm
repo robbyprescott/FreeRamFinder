@@ -1,4 +1,0 @@
-init:
-LDA #$01
-STA $140D
-RTL

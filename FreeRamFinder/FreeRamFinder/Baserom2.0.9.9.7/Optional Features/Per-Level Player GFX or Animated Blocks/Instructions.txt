@@ -1,7 +1,0 @@
-Simply merge the new folder with the old one. 
-(You won't have to do anything else here, unless you've edited anything in /UberASM/other/global_code.asm other than what's already added.)
-
-To use this, specify the ExGFX file(s) you want in the level table in /mario_exgfx/settings.asm.
-Make sure you move ExGFXA32.bin and ExGFXA33.bin from /ExGraphics/Optional to /ExGraphics/ and insert them through LM.
-These are simply the vanilla Mario and animation GFX (the new default). $B32 is Luigi. $C32 is Yoshi. $D32 is a completely black Mario.
-

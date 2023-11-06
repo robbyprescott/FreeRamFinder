@@ -1,4 +1,0 @@
-main:
-LDA #$01
-STA $0E20
-RTL

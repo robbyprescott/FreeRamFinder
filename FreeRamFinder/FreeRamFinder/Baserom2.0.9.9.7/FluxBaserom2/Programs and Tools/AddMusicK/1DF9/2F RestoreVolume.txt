@@ -1,9 +1,0 @@
-#jsr RestoreVolume
-
-#asm RestoreVolume
-{
-	mov a, #$05 ; How long is the fade, 30 is short-ish
-	mov $58, a
-	mov a, #$AF ; Volume to fade to
-	jmp cmdE1+$08
-}

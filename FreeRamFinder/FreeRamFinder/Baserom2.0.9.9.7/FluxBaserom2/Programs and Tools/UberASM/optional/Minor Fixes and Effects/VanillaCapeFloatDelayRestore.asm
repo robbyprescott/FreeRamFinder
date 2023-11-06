@@ -1,4 +1,0 @@
-load:
-LDA #$01
-STA $0E08
-RTL
