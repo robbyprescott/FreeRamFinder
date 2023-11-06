@@ -1,0 +1,427 @@
+Freeram conflict 7E00FF was found 29 times:
+    7E00FF used in \FluxBaserom2\Info, Settings, and Assets\Patches\MarioMovesLeftAfterGoalTapeIfFreeRAMSet.asm at line 64 as "$FF"
+    7E00FF used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\NoLayer3TidePush.asm at line 5 as "$FF"
+    7E00FF used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\SineMotionHorizontalCheepCheep.asm at line 2 as "$FF"
+    7E00FF used in \FluxBaserom2\Info, Settings, and Assets\Patches\PlaceableThrowBlock-sprite53.asm at line 1 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\blocks\MessageBox.asm at line 3 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\blocks\NoteblockAlsoBouncesSprites.asm at line 9 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\blocks\OnSwitch-SingleHitSynchronized.asm at line 3 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\blocks\SpawnCarryableSprite.asm at line 1 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\blocks\SpotlightBlock.asm at line 4 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\CarryableCementBlock.asm at line 30 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\VineDirectionBlocks\RotVineBlock_Down.asm at line 78 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\VineDirectionBlocks\RotVineBlock_Left.asm at line 78 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\VineDirectionBlocks\RotVineBlock_Right.asm at line 78 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\VineDirectionBlocks\RotVineBlock_Up.asm at line 78 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\blocks\ThrowblockSpawner.asm at line 5 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\sprites(extended,etc)\cluster\fish.asm at line 7 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\sprites\!BossEtc\Kevin Reznor\ReznorDefines.asm at line 26 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\sprites\GFX2(Forest)\Bobomb_dis.asm at line 3 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\UberASM\library\SlowdownToggleWithLorR.asm at line 3 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\UberASM\optional\Layer2ManualScrollWithButtons.asm at line 52 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\UberASM\optional\PasswordSystemFixedKinda.asm at line 18 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\UberASM\optional\SlowdownToggleWithLorR.asm at line 3 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\UberASM\optional\SpawnCarryableSpriteInYoshiMouth.asm at line 6 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\UberASM\optional\SpriteTimersPerLevel_PSwitchBulletShooterPBalloon.asm at line 2 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\UberASM\optional\StartWithSpecifiedPowerup.asm at line 7 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\UberASM\optional\VineGrowSpeed.asm at line 3 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\code\check_incompatibilities.asm at line 1 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\code\prompt.asm at line 22 as "$FF"
+    7E00FF used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\settings.asm at line 25 as "$FF"
+
+Freeram conflict 7E0060 was found 20 times:
+    7E0060 used in \FluxBaserom2\Info, Settings, and Assets\Patches\CourseClearSkipfadeout_ramcontrolled.asm at line 20 as "$60"
+    7E0060 used in \FluxBaserom2\Info, Settings, and Assets\Patches\NoMoreSpriteTileLimits.asm at line 143 as "$60"
+    7E0060 used in \FluxBaserom2\Info, Settings, and Assets\Patches\SSPDefines.asm at line 19 as "$7E0060"
+    7E0060 used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\Commands.asm at line 509 as "$60"
+    7E0060 used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\main.asm at line 1117 as "$60"
+    7E0060 used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\FreeRAMSTAOnly3.asm at line 6 as "$60"
+    7E0060 used in \FluxBaserom2\Programs and Tools\sprites\ConditionalBulletShooter.asm at line 2 as "$60"
+    7E0060 used in \FluxBaserom2\Programs and Tools\sprites\GFX0F(CastleGhostIntro)\CastleEntranceDoor.asm at line 1 as "$0060"
+    7E0060 used in \FluxBaserom2\Programs and Tools\sprites\GFX0F(CastleGhostIntro)\GhostHouseEntranceDoor.asm at line 1 as "$0060"
+    7E0060 used in \FluxBaserom2\Programs and Tools\sprites\GFX13(SP3)\BrownPlatformFastFalling.asm at line 8 as "$60"
+    7E0060 used in \FluxBaserom2\Programs and Tools\sprites\GFX3(Castle)\thwomps.asm at line 44 as "$0060"
+    7E0060 used in \FluxBaserom2\Programs and Tools\sprites\GFX9(Grassland)\MontyMoleCUSTOM.asm at line 4 as "$0060"
+    7E0060 used in \FluxBaserom2\Programs and Tools\UberASM\optional\BigMetroidTimer.asm at line 6 as "$60"
+    7E0060 used in \FluxBaserom2\Programs and Tools\UberASM\optional\FreezeSpritesOnTrigger.asm at line 4 as "$60"
+    7E0060 used in \FluxBaserom2\Programs and Tools\UberASM\optional\SpriteTimersPerLevel_PSwitchBulletShooterPBalloon.asm at line 1 as "$60"
+    7E0060 used in \FluxBaserom2\Programs and Tools\UberASM\optional\ThrownSpritesSpeedAdjust.asm at line 15 as "$60"
+    7E0060 used in \FluxBaserom2\Programs and Tools\UberASM\Works in Progress, SJC\Color.asm at line 1 as "$60"
+    7E0060 used in \FluxBaserom2\Programs and Tools\UberASM\Works in Progress, SJC\Layer2DownwardLoop.asm at line 5 as "$60"
+    7E0060 used in \FluxBaserom2\Programs and Tools\UberASM\Works in Progress, SJC\UnlockablePlayerSelectOptions\library\CantChooseOther2ndPlayerOptionUntilUnlock.asm at line 1 as "$60"
+    7E0060 used in \FluxBaserom2\Programs and Tools\UberASM\Works in Progress, SJC\UnlockablePlayerSelectOptions\library\PlayerSelectTextToggle.asm at line 4 as "$60"
+
+Freeram conflict 7E005C was found 16 times:
+    7E005C used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\unpatchYoshiDismountBlockPatch.asm at line 1 as "$5C"
+    7E005C used in \FluxBaserom2\Info, Settings, and Assets\Patches\PodobooBuoyancyFix.asm at line 52 as "$5C"
+    7E005C used in \FluxBaserom2\Info, Settings, and Assets\Patches\ScreenScrollingPipesMinimalFunction.asm at line 26 as "$5C"
+    7E005C used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\SNES\AMUndo.asm at line 2 as "$5C"
+    7E005C used in \FluxBaserom2\Programs and Tools\sprites_pixi_basecode\spritetool_clean.asm at line 18 as "$5C"
+    7E005C used in \FluxBaserom2\Programs and Tools\UberASM\asm\work\global.asm at line 240 as "$5C"
+    7E005C used in \FluxBaserom2\Programs and Tools\UberASM\asm\work\temp.asm at line 32 as "$5C"
+    7E005C used in \FluxBaserom2\Programs and Tools\UberASM\other\global_code.asm at line 30 as "$5C"
+    7E005C used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\code\check_incompatibilities.asm at line 4 as "$5C"
+    7E005C used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\code\hijacks\custom_midway.asm at line 78 as "$5C"
+    7E005C used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\code\hijacks\death_counter.asm at line 7 as "$5C"
+    7E005C used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\code\hijacks\item_box_fix.asm at line 6 as "$5C"
+    7E005C used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\code\hijacks\sram.asm at line 170 as "$5C"
+    7E005C used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\misc.asm at line 26 as "$5C"
+    7E005C used in \FluxBaserom2\Programs and Tools\UberASM\Works in Progress, SJC\MomentumConserveConveyorOrWind.asm at line 2 as "$5C"
+    7E005C used in \Optional Features\Per-Level Player GFX or Animated Blocks\UberASM\other\global_code.asm at line 32 as "$5C"
+
+Freeram conflict 7FAB10 was found 16 times:
+    7FAB10 used in \FluxBaserom2\Info, Settings, and Assets\Patches\DryBonesMolesHammersExtraBit.asm at line 6 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Info, Settings, and Assets\Patches\InteractionLine\InteractionLinePatch.asm at line 73 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Info, Settings, and Assets\Patches\Lakitu_cloud_timer_with_extra_bit.asm at line 11 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\(ReadBeforeApplying)SpritePropertiesExtraBit.asm at line 30 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\ChuckExtraBit.asm at line 15 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Info, Settings, and Assets\Patches\PitchinChuckNoTurnExtraBit.asm at line 7 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Info, Settings, and Assets\Patches\PlaceableAutokickedshells.asm at line 27 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Info, Settings, and Assets\Patches\PlaceableThrowBlock-sprite53.asm at line 29 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Info, Settings, and Assets\Patches\SpawnCarryableStateSpritesExBit.asm at line 19 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Info, Settings, and Assets\Patches\YoshiFaceRightOnExtraBit.asm at line 7 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Programs and Tools\defines.asm at line 99 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Programs and Tools\sprites_pixi_basecode\sa1def.asm at line 99 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Programs and Tools\sprites\GFX3(Castle)\DryBones-ExtraBit.asm at line 14 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Programs and Tools\sprites\pipe_generator_custom_trigger.asm at line 2 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Programs and Tools\sprites\pipe_generator.asm at line 1 as "$7FAB10"
+    7FAB10 used in \FluxBaserom2\Programs and Tools\UberASM\other\macro_library.asm at line 88 as "$7FAB10"
+
+Freeram conflict 7E00F0 was found 8 times:
+    7E00F0 used in \FluxBaserom2\Info, Settings, and Assets\Patches\NoMoreSpriteTileLimits.asm at line 130 as "$F0"
+    7E00F0 used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\PhysicsModifier.asm at line 38 as "$F0"
+    7E00F0 used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\VineDirectionBlocks\RotVineBlock_Left.asm at line 15 as "$F0"
+    7E00F0 used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\VineDirectionBlocks\RotVineBlock_Up.asm at line 16 as "$F0"
+    7E00F0 used in \FluxBaserom2\Programs and Tools\sprites(extended,etc)\extended\Projectile_shuriken.asm at line 16 as "$F0"
+    7E00F0 used in \FluxBaserom2\Programs and Tools\sprites\GFX20(Grassland)\RexWithCustomOptions.asm at line 4 as "$F0"
+    7E00F0 used in \FluxBaserom2\Programs and Tools\sprites\GFX3(Castle)\thwomps.asm at line 21 as "$F0"
+    7E00F0 used in \FluxBaserom2\Programs and Tools\UberASM\optional\Minor Fixes and Effects\CastleBGCandleFlames.asm at line 3 as "$F0"
+
+Freeram conflict 7E00FC was found 8 times:
+    7E00FC used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\PhysicsModifier.asm at line 28 as "$FC"
+    7E00FC used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\SineMotionHorizontalCheepCheep.asm at line 4 as "$FC"
+    7E00FC used in \FluxBaserom2\Programs and Tools\sprites\GFX23(MainlyDinos)\bumpty.asm at line 19 as "$FC"
+    7E00FC used in \FluxBaserom2\Programs and Tools\sprites\GFX3(Castle)\thwomps.asm at line 17 as "$FC"
+    7E00FC used in \FluxBaserom2\Programs and Tools\sprites\GFX31(SP2)\BowsersBowlingBall.asm at line 6 as "$FC"
+    7E00FC used in \FluxBaserom2\Programs and Tools\UberASM\level\Layer3TextDisplayToggleLorR.asm at line 8 as "$FC"
+    7E00FC used in \FluxBaserom2\Programs and Tools\UberASM\Works in Progress, SJC\Layer3TextDisplayToggleLorR.asm at line 8 as "$FC"
+    7E00FC used in \FluxBaserom2\Programs and Tools\UberASM\Works in Progress, SJC\UnlockablePlayerSelectOptions\library\PlayerSelectTextToggle.asm at line 9 as "$FC"
+
+Freeram conflict 7E0DC4 was found 8 times:
+    7E0DC4 used in \FluxBaserom2\Programs and Tools\sprites(extended,etc)\extended\Projectile_boomerang.asm at line 3 as "$0DC4"
+    7E0DC4 used in \FluxBaserom2\Programs and Tools\sprites(extended,etc)\extended\Projectile_bubble.asm at line 3 as "$0DC4"
+    7E0DC4 used in \FluxBaserom2\Programs and Tools\sprites(extended,etc)\extended\Projectile_hammer.asm at line 3 as "$0DC4"
+    7E0DC4 used in \FluxBaserom2\Programs and Tools\sprites(extended,etc)\extended\Projectile_iceball.asm at line 3 as "$0DC4"
+    7E0DC4 used in \FluxBaserom2\Programs and Tools\sprites(extended,etc)\extended\Projectile_shuriken.asm at line 3 as "$0DC4"
+    7E0DC4 used in \FluxBaserom2\Programs and Tools\sprites\ExGFX113(SP3NoChucks)\powerups.asm at line 5 as "$0DC4"
+    7E0DC4 used in \FluxBaserom2\Programs and Tools\UberASM\level\ShootingPowerups.asm at line 13 as "$0DC4"
+    7E0DC4 used in \FluxBaserom2\Programs and Tools\UberASM\library\StatusBarItemDisplay.asm at line 11 as "$0DC4"
+
+Freeram conflict 7E15E8 was found 8 times:
+    7E15E8 used in \FluxBaserom2\Programs and Tools\sprites\!BossEtc\Kevin Reznor\ReznorDefines.asm at line 39 as "$15E8"
+    7E15E8 used in \FluxBaserom2\Programs and Tools\UberASM\gamemode\gm0F.asm at line 15 as "$15E8"
+    7E15E8 used in \FluxBaserom2\Programs and Tools\UberASM\gamemode\retry_gm10.asm at line 99 as "$15E8"
+    7E15E8 used in \FluxBaserom2\Programs and Tools\UberASM\optional\FireSmallMarioFromLevelLoad.asm at line 21 as "$15E8"
+    7E15E8 used in \FluxBaserom2\Programs and Tools\UberASM\optional\FireSmallMarioOnPowerupOrTrigger.asm at line 24 as "$15E8"
+    7E15E8 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioGFXAndPaletteChangeOnTrigger.asm at line 21 as "$15E8"
+    7E15E8 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioPaletteMidLevelChange.asm at line 18 as "$15E8"
+    7E15E8 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioPaletteSetFromLevelLoad.asm at line 14 as "$15E8"
+
+Freeram conflict 7FAB10 variation was found 8 times:
+    7FAB10 variation used in \FluxBaserom2\Info, Settings, and Assets\Patches\DryBonesMolesHammersExtraBit.asm at line 9 as "!extra_bits,x"
+    7FAB10 variation used in \FluxBaserom2\Info, Settings, and Assets\Patches\Lakitu_cloud_timer_with_extra_bit.asm at line 22 as "!7FAB10,x"
+    7FAB10 variation used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\(ReadBeforeApplying)SpritePropertiesExtraBit.asm at line 139 as "!extra_bits,x"
+    7FAB10 variation used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\ChuckExtraBit.asm at line 22 as "!7FAB10,x"
+    7FAB10 variation used in \FluxBaserom2\Info, Settings, and Assets\Patches\PitchinChuckNoTurnExtraBit.asm at line 14 as "!7FAB10,x"
+    7FAB10 variation used in \FluxBaserom2\Info, Settings, and Assets\Patches\SpawnCarryableStateSpritesExBit.asm at line 31 as "!7FAB10,x"
+    7FAB10 variation used in \FluxBaserom2\Programs and Tools\sprites\pipe_generator_custom_trigger.asm at line 11 as "!EXTRA_BITS,x"
+    7FAB10 variation used in \FluxBaserom2\Programs and Tools\sprites\pipe_generator.asm at line 18 as "!EXTRA_BITS,x"
+
+Freeram conflict 7FAB9E was found 8 times:
+    7FAB9E used in \FluxBaserom2\Info, Settings, and Assets\Patches\InteractionLine\InteractionLinePatch.asm at line 77 as "$7FAB9E"
+    7FAB9E used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\ProximityWrapFix.asm at line 27 as "$7FAB9E"
+    7FAB9E used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\throwblock_bumper.asm at line 6 as "$7FAB9E"
+    7FAB9E used in \FluxBaserom2\Programs and Tools\defines.asm at line 103 as "$7FAB9E"
+    7FAB9E used in \FluxBaserom2\Programs and Tools\sprites_pixi_basecode\sa1def.asm at line 103 as "$7FAB9E"
+    7FAB9E used in \FluxBaserom2\Programs and Tools\UberASM\other\macro_library.asm at line 92 as "$7FAB9E"
+    7FAB9E used in \FluxBaserom2\Programs and Tools\UberASM\Works in Progress, SJC\SpriteExtraBitSetOnTrigger.asm at line 9 as "$7FAB9E"
+    7FAB9E used in \FluxBaserom2\Programs and Tools\UberASM\Works in Progress, SJC\SpriteExtraBytesSetOnTrigger.asm at line 12 as "$7FAB9E"
+
+Freeram conflict 7E00F8 was found 7 times:
+    7E00F8 used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\PhysicsModifier.asm at line 29 as "$F8"
+    7E00F8 used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\stationary_pballoon.asm at line 2 as "$F8"
+    7E00F8 used in \FluxBaserom2\Programs and Tools\sprites\ExGFX113(SP3NoChucks)\IceBlock.asm at line 5 as "$F8"
+    7E00F8 used in \FluxBaserom2\Programs and Tools\sprites\GFX12(SP3Castle)\NetKoopasCustomizable.asm at line 3 as "$F8"
+    7E00F8 used in \FluxBaserom2\Programs and Tools\sprites\GFX2(Forest)\CustomizablePipeLakituThrowsSprites.asm at line 18 as "$F8"
+    7E00F8 used in \FluxBaserom2\Programs and Tools\sprites\GFX20(Grassland)\RexWithCustomOptions.asm at line 2 as "$F8"
+    7E00F8 used in \FluxBaserom2\Programs and Tools\sprites\GFX31(SP2)\BowsersBowlingBall.asm at line 7 as "$F8"
+
+Freeram conflict 7FA00B was found 7 times:
+    7FA00B used in \FluxBaserom2\Info, Settings, and Assets\Patches\MarioTileDMAMergedPaletteChange.asm at line 2 as "$7FA00B"
+    7FA00B used in \FluxBaserom2\Programs and Tools\UberASM\gamemode\gm0F.asm at line 1 as "$7FA00B"
+    7FA00B used in \FluxBaserom2\Programs and Tools\UberASM\optional\FireSmallMarioFromLevelLoad.asm at line 7 as "$7FA00B"
+    7FA00B used in \FluxBaserom2\Programs and Tools\UberASM\optional\FireSmallMarioOnPowerupOrTrigger.asm at line 8 as "$7FA00B"
+    7FA00B used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioGFXAndPaletteChangeOnTrigger.asm at line 7 as "$7FA00B"
+    7FA00B used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioPaletteMidLevelChange.asm at line 4 as "$7FA00B"
+    7FA00B used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioPaletteSetFromLevelLoad.asm at line 2 as "$7FA00B"
+
+Freeram conflict 7E0062 was found 6 times:
+    7E0062 used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\YoshiEggRemapStuff.asm at line 8 as "$62"
+    7E0062 used in \FluxBaserom2\Info, Settings, and Assets\Patches\SSPDefines.asm at line 29 as "$7E0062"
+    7E0062 used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\Commands.asm at line 386 as "$62"
+    7E0062 used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\main.asm at line 1371 as "$62"
+    7E0062 used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\FreeRAMSTAOnly3.asm at line 8 as "$62"
+    7E0062 used in \FluxBaserom2\Programs and Tools\sprites\GFX13(SP3)\BrownPlatformFastFalling.asm at line 10 as "$62"
+
+Freeram conflict 7E00F5 was found 6 times:
+    7E00F5 used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\main.asm at line 1995 as "$F5"
+    7E00F5 used in \FluxBaserom2\Programs and Tools\blocks\KoopaBlock.asm at line 2 as "$F5"
+    7E00F5 used in \FluxBaserom2\Programs and Tools\blocks\TideEmulateBlock.asm at line 3 as "$F5"
+    7E00F5 used in \FluxBaserom2\Programs and Tools\UberASM\optional\AllWaterInLevelActsLikeLayer3Tide.asm at line 2 as "$F5"
+    7E00F5 used in \FluxBaserom2\Programs and Tools\UberASM\optional\AllWaterIsLayer3TideButDirectionIsOnOffControlled.asm at line 4 as "$F5"
+    7E00F5 used in \FluxBaserom2\Programs and Tools\UberASM\optional\InteractionLineTideEtc\normal_layer_3_tide.asm at line 4 as "$F5"
+
+Freeram conflict 7FA034 was found 6 times:
+    7FA034 used in \FluxBaserom2\Info, Settings, and Assets\Patches\MarioTileDMAMergedPaletteChange.asm at line 1 as "$7FA034"
+    7FA034 used in \FluxBaserom2\Programs and Tools\UberASM\optional\FireSmallMarioFromLevelLoad.asm at line 6 as "$7FA034"
+    7FA034 used in \FluxBaserom2\Programs and Tools\UberASM\optional\FireSmallMarioOnPowerupOrTrigger.asm at line 7 as "$7FA034"
+    7FA034 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioGFXAndPaletteChangeOnTrigger.asm at line 6 as "$7FA034"
+    7FA034 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioPaletteMidLevelChange.asm at line 3 as "$7FA034"
+    7FA034 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioPaletteSetFromLevelLoad.asm at line 1 as "$7FA034"
+
+Freeram conflict 7FA035 was found 6 times:
+    7FA035 used in \FluxBaserom2\Info, Settings, and Assets\Patches\MarioTileDMAMergedPaletteChange.asm at line 63 as "!RAM_PlayerPalPtr+1"
+    7FA035 used in \FluxBaserom2\Programs and Tools\UberASM\optional\FireSmallMarioFromLevelLoad.asm at line 14 as "!RAM_PlayerPalPtr+1"
+    7FA035 used in \FluxBaserom2\Programs and Tools\UberASM\optional\FireSmallMarioOnPowerupOrTrigger.asm at line 13 as "!RAM_PlayerPalPtr+1"
+    7FA035 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioGFXAndPaletteChangeOnTrigger.asm at line 12 as "!RAM_PlayerPalPtr+1"
+    7FA035 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioPaletteMidLevelChange.asm at line 9 as "!RAM_PlayerPalPtr+1"
+    7FA035 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioPaletteSetFromLevelLoad.asm at line 7 as "!RAM_PlayerPalPtr+1"
+
+Freeram conflict 7FC0FC was found 6 times:
+    7FC0FC used in \FluxBaserom2\Programs and Tools\blocks\OffSolid-CustomTriggerRAM.asm at line 8 as "$7FC0FC"
+    7FC0FC used in \FluxBaserom2\Programs and Tools\blocks\OnOffAlternateCustomTrigger.asm at line 27 as "$7FC0FC"
+    7FC0FC used in \FluxBaserom2\Programs and Tools\blocks\OnSolid-CustomTriggerRAM.asm at line 8 as "$7FC0FC"
+    7FC0FC used in \FluxBaserom2\Programs and Tools\UberASM\gamemode\retry_gm10.asm at line 11 as "$7FC0FC"
+    7FC0FC used in \FluxBaserom2\Programs and Tools\UberASM\optional\Minor Fixes and Effects\ResetCustomTrigger.asm at line 3 as "$7FC0FC"
+    7FC0FC used in \FluxBaserom2\Programs and Tools\UberASM\optional\ScoreSpecificScoreTriggersThing.asm at line 14 as "$7FC0FC"
+
+Freeram conflict 7E0061 was found 5 times:
+    7E0061 used in \FluxBaserom2\Info, Settings, and Assets\Patches\SSPDefines.asm at line 24 as "$7E0061"
+    7E0061 used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\Commands.asm at line 381 as "$61"
+    7E0061 used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\main.asm at line 1372 as "$61"
+    7E0061 used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\FreeRAMSTAOnly3.asm at line 7 as "$61"
+    7E0061 used in \FluxBaserom2\Programs and Tools\sprites\GFX13(SP3)\BrownPlatformFastFalling.asm at line 9 as "$61"
+
+Freeram conflict 7E0087 was found 5 times:
+    7E0087 used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\ExitPercentage.asm at line 2 as "$87"
+    7E0087 used in \FluxBaserom2\Programs and Tools\sprites\ExGFX106(CustomForest)\BanzaiBillForestTileset.asm at line 9 as "$87"
+    7E0087 used in \FluxBaserom2\Programs and Tools\sprites\FlyingHammerBroPlatformCustomizable.asm at line 37 as "$87"
+    7E0087 used in \FluxBaserom2\Programs and Tools\sprites\FlyingHammerBroPlatformGoesLeftFirst.asm at line 37 as "$87"
+    7E0087 used in \FluxBaserom2\Programs and Tools\sprites\HammerBroPlatformOnlyStartsMovingOnceMarioTouches.asm at line 37 as "$87"
+
+Freeram conflict 7E0F5E was found 5 times:
+    7E0F5E used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\ExtendingBlocks\extndBlockD.asm at line 6 as "$0F5E"
+    7E0F5E used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\ExtendingBlocks\extndBlockL.asm at line 6 as "$0F5E"
+    7E0F5E used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\ExtendingBlocks\extndBlockR.asm at line 6 as "$0F5E"
+    7E0F5E used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\ExtendingBlocks\extndBlockU.asm at line 6 as "$0F5E"
+    7E0F5E used in \FluxBaserom2\Programs and Tools\UberASM\library\ExtendingBlocksTimer.asm at line 3 as "$0F5E"
+
+Freeram conflict 7E1926 was found 5 times:
+    7E1926 used in \FluxBaserom2\Info, Settings, and Assets\Patches\PlaylistPatch(FreeRAM).asm at line 1 as "$1926"
+    7E1926 used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\ChangeMusic.asm at line 4 as "$1926"
+    7E1926 used in \FluxBaserom2\Programs and Tools\UberASM\library\PlaylistFunction.asm at line 1 as "$1926"
+    7E1926 used in \FluxBaserom2\Programs and Tools\UberASM\optional\ChangeMusicOnRAMTrigger.asm at line 2 as "$1926"
+    7E1926 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MidwayMusicChange.asm at line 2 as "$1926"
+
+Freeram conflict 7FA036 was found 5 times:
+    7FA036 used in \FluxBaserom2\Programs and Tools\UberASM\optional\FireSmallMarioFromLevelLoad.asm at line 16 as "!RAM_PlayerPalPtr+2"
+    7FA036 used in \FluxBaserom2\Programs and Tools\UberASM\optional\FireSmallMarioOnPowerupOrTrigger.asm at line 15 as "!RAM_PlayerPalPtr+2"
+    7FA036 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioGFXAndPaletteChangeOnTrigger.asm at line 14 as "!RAM_PlayerPalPtr+2"
+    7FA036 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioPaletteMidLevelChange.asm at line 11 as "!RAM_PlayerPalPtr+2"
+    7FA036 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MarioPaletteSetFromLevelLoad.asm at line 9 as "!RAM_PlayerPalPtr+2"
+
+Freeram conflict 7FAB40 was found 5 times:
+    7FAB40 used in \FluxBaserom2\Programs and Tools\blocks\LevelHubTeleportDoors.asm at line 8 as "$7FAB40"
+    7FAB40 used in \FluxBaserom2\Programs and Tools\defines.asm at line 95 as "$7FAB40"
+    7FAB40 used in \FluxBaserom2\Programs and Tools\sprites_pixi_basecode\sa1def.asm at line 104 as "$7FAB40"
+    7FAB40 used in \FluxBaserom2\Programs and Tools\sprites\GFX12(SP3Castle)\BowserStatueExtraBit.asm at line 22 as "$7FAB40"
+    7FAB40 used in \FluxBaserom2\Programs and Tools\UberASM\other\macro_library.asm at line 93 as "$7FAB40"
+
+Freeram conflict 7E0063 was found 4 times:
+    7E0063 used in \FluxBaserom2\Info, Settings, and Assets\Patches\SSPDefines.asm at line 34 as "$7E0063"
+    7E0063 used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\Commands.asm at line 384 as "$63"
+    7E0063 used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\main.asm at line 1380 as "$63"
+    7E0063 used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\FreeRAMSTAOnly3.asm at line 9 as "$63"
+
+Freeram conflict 7E0079 was found 4 times:
+    7E0079 used in \FluxBaserom2\Info, Settings, and Assets\Patches\SSPDefines.asm at line 39 as "$7E0079"
+    7E0079 used in \FluxBaserom2\Programs and Tools\blocks\QuestionMarkSpawnSprite\Vine.asm at line 3 as "$79"
+    7E0079 used in \FluxBaserom2\Programs and Tools\SSPDef\Defines.asm at line 39 as "$7E0079"
+    7E0079 used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\settings.asm at line 64 as "$79"
+
+Freeram conflict 7E007C was found 4 times:
+    7E007C used in \FluxBaserom2\Programs and Tools\sprites\!BossEtc\Kevin Reznor\ReznorDefines.asm at line 34 as "$7C"
+    7E007C used in \FluxBaserom2\Programs and Tools\sprites\GFX2(Forest)\CustomizablePipeLakituThrowsSprites.asm at line 10 as "$7C"
+    7E007C used in \FluxBaserom2\Programs and Tools\sprites\goaltape.asm at line 3 as "$7C"
+    7E007C used in \FluxBaserom2\Programs and Tools\UberASM\library\PlaylistDisplay.asm at line 3 as "$7C"
+
+Freeram conflict 7E0F5E variation was found 4 times:
+    7E0F5E variation used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\ExtendingBlocks\extndBlockD.asm at line 40 as "!timer,x"
+    7E0F5E variation used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\ExtendingBlocks\extndBlockL.asm at line 40 as "!timer,x"
+    7E0F5E variation used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\ExtendingBlocks\extndBlockR.asm at line 40 as "!timer,x"
+    7E0F5E variation used in \FluxBaserom2\Programs and Tools\blocks\SpriteBlocks\ExtendingBlocks\extndBlockU.asm at line 40 as "!timer,x"
+
+Freeram conflict 7E1927 was found 4 times:
+    7E1927 used in \FluxBaserom2\Info, Settings, and Assets\Patches\PlaylistPatch(FreeRAM).asm at line 19 as "!freeram+1"
+    7E1927 used in \FluxBaserom2\Programs and Tools\UberASM\library\PlaylistFunction.asm at line 34 as "!freeRAM+1"
+    7E1927 used in \FluxBaserom2\Programs and Tools\UberASM\optional\ChangeMusicOnRAMTrigger.asm at line 10 as "!freeRAM+1"
+    7E1927 used in \FluxBaserom2\Programs and Tools\UberASM\optional\MidwayMusicChange.asm at line 10 as "!freeRAM+1"
+
+Freeram conflict 7FAB1C was found 4 times:
+    7FAB1C used in \FluxBaserom2\Info, Settings, and Assets\Patches\InteractionLine\InteractionLinePatch.asm at line 74 as "$7FAB1C"
+    7FAB1C used in \FluxBaserom2\Programs and Tools\defines.asm at line 100 as "$7FAB1C"
+    7FAB1C used in \FluxBaserom2\Programs and Tools\sprites_pixi_basecode\sa1def.asm at line 100 as "$7FAB1C"
+    7FAB1C used in \FluxBaserom2\Programs and Tools\UberASM\other\macro_library.asm at line 89 as "$7FAB1C"
+
+Freeram conflict 7FAB28 was found 4 times:
+    7FAB28 used in \FluxBaserom2\Info, Settings, and Assets\Patches\InteractionLine\InteractionLinePatch.asm at line 75 as "$7FAB28"
+    7FAB28 used in \FluxBaserom2\Programs and Tools\defines.asm at line 101 as "$7FAB28"
+    7FAB28 used in \FluxBaserom2\Programs and Tools\sprites_pixi_basecode\sa1def.asm at line 101 as "$7FAB28"
+    7FAB28 used in \FluxBaserom2\Programs and Tools\UberASM\other\macro_library.asm at line 90 as "$7FAB28"
+
+Freeram conflict 7FAB34 was found 4 times:
+    7FAB34 used in \FluxBaserom2\Info, Settings, and Assets\Patches\InteractionLine\InteractionLinePatch.asm at line 76 as "$7FAB34"
+    7FAB34 used in \FluxBaserom2\Programs and Tools\defines.asm at line 102 as "$7FAB34"
+    7FAB34 used in \FluxBaserom2\Programs and Tools\sprites_pixi_basecode\sa1def.asm at line 102 as "$7FAB34"
+    7FAB34 used in \FluxBaserom2\Programs and Tools\UberASM\other\macro_library.asm at line 91 as "$7FAB34"
+
+Freeram conflict 7FB400 was found 4 times:
+    7FB400 used in \FluxBaserom2\Programs and Tools\blocks\MidwayTapeRespawnsYouAtMidwayEntranceImmediately.asm at line 2 as "$7FB400"
+    7FB400 used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\SilentMidway.asm at line 2 as "$7FB400"
+    7FB400 used in \FluxBaserom2\Programs and Tools\UberASM\asm\work\library.asm at line 851 as "$7FB400"
+    7FB400 used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\ram.asm at line 1 as "$7FB400"
+
+Freeram conflict 7FB403 was found 4 times:
+    7FB403 used in \FluxBaserom2\Programs and Tools\blocks\MidwayTapeRespawnsYouAtMidwayEntranceImmediately.asm at line 28 as "!retry_freeram+3"
+    7FB403 used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\KillCheckpointRespawn.asm at line 23 as "$7FB403"
+    7FB403 used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\SilentMidway.asm at line 21 as "!retry_freeram+3"
+    7FB403 used in \FluxBaserom2\Programs and Tools\UberASM\asm\work\library.asm at line 849 as "$7FB403"
+
+Freeram conflict 7FB40C was found 4 times:
+    7FB40C used in \FluxBaserom2\Programs and Tools\blocks\MidwayTapeRespawnsYouAtMidwayEntranceImmediately.asm at line 3 as "$7FB40C"
+    7FB40C used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\KillCheckpointRespawn.asm at line 7 as "$7FB40C"
+    7FB40C used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\SilentMidway.asm at line 3 as "$7FB40C"
+    7FB40C used in \FluxBaserom2\Programs and Tools\UberASM\asm\work\library.asm at line 845 as "$7FB40C"
+
+Freeram conflict 7FBFFF was found 4 times:
+    7FBFFF used in \FluxBaserom2\Programs and Tools\UberASM\optional\CoinStuff\library\CoinCounter.asm at line 9 as "$7FBFFF"
+    7FBFFF used in \FluxBaserom2\Programs and Tools\UberASM\optional\HPSystemOrLifeCounterLibrary.asm at line 7 as "$7FBFFF"
+    7FBFFF used in \FluxBaserom2\Programs and Tools\UberASM\optional\Minor Fixes and Effects\IdlePoseCycleThroughDifferentFrames.asm at line 11 as "!freeram+2"
+    7FBFFF used in \Optional Features\OverworldAuthorDisplay\UberASM\library\author_display.asm at line 1 as "$7FBFFF"
+
+Freeram conflict 7E00F4 was found 3 times:
+    7E00F4 used in \FluxBaserom2\Info, Settings, and Assets\Patches\NoMoreSpriteTileLimits.asm at line 129 as "$F4"
+    7E00F4 used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\PhysicsModifier.asm at line 47 as "$F4"
+    7E00F4 used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\main.asm at line 1994 as "$F4"
+
+Freeram conflict 7E00FE was found 3 times:
+    7E00FE used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\PhysicsModifier.asm at line 160 as "$FE"
+    7E00FE used in \FluxBaserom2\Programs and Tools\sprites\GFX31(SP2)\BowsersBowlingBall.asm at line 5 as "$FE"
+    7E00FE used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\code\fade_to_overworld.asm at line 1 as "$FE"
+
+Freeram conflict 7E1489 was found 3 times:
+    7E1489 used in \FluxBaserom2\Programs and Tools\sprites\GFX2(Forest)\Bobomb_dis.asm at line 464 as "$1489"
+    7E1489 used in \FluxBaserom2\Programs and Tools\sprites\P-SwitchDisassembly.asm at line 278 as "$1489"
+    7E1489 used in \FluxBaserom2\Programs and Tools\UberASM\optional\BigMetroidTimer.asm at line 12 as "$1489"
+
+Freeram conflict 7E14BE was found 3 times:
+    7E14BE used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\SNES\patch.asm at line 372 as "$14BE"
+    7E14BE used in \FluxBaserom2\Programs and Tools\UberASM\optional\PSwitchNormalSoundRestore.asm at line 1 as "$14BE"
+    7E14BE used in \FluxBaserom2\Programs and Tools\UberASM\optional\SwitchBetweenMarioAndLuigiAfterRetry.asm at line 2 as "$14BE"
+
+Freeram conflict 7FAB4C was found 3 times:
+    7FAB4C used in \FluxBaserom2\Programs and Tools\defines.asm at line 96 as "$7FAB4C"
+    7FAB4C used in \FluxBaserom2\Programs and Tools\sprites_pixi_basecode\sa1def.asm at line 105 as "$7FAB4C"
+    7FAB4C used in \FluxBaserom2\Programs and Tools\UberASM\other\macro_library.asm at line 94 as "$7FAB4C"
+
+Freeram conflict 7FAB58 was found 3 times:
+    7FAB58 used in \FluxBaserom2\Programs and Tools\defines.asm at line 97 as "$7FAB58"
+    7FAB58 used in \FluxBaserom2\Programs and Tools\sprites_pixi_basecode\sa1def.asm at line 106 as "$7FAB58"
+    7FAB58 used in \FluxBaserom2\Programs and Tools\UberASM\other\macro_library.asm at line 95 as "$7FAB58"
+
+Freeram conflict 7FAB64 was found 3 times:
+    7FAB64 used in \FluxBaserom2\Programs and Tools\defines.asm at line 98 as "$7FAB64"
+    7FAB64 used in \FluxBaserom2\Programs and Tools\sprites_pixi_basecode\sa1def.asm at line 107 as "$7FAB64"
+    7FAB64 used in \FluxBaserom2\Programs and Tools\UberASM\other\macro_library.asm at line 104 as "$7FAB64"
+
+Freeram conflict 7FB000 was found 3 times:
+    7FB000 used in \FluxBaserom2\Programs and Tools\AddMusicK\asm\SNES\patch.asm at line 19 as "$7FB000"
+    7FB000 used in \FluxBaserom2\Programs and Tools\UberASM\optional\TeleportOnLevelEnd.asm at line 114 as "$7FB000"
+    7FB000 used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\ram.asm at line 3 as "$7FB000"
+
+Freeram conflict 7FB404 was found 3 times:
+    7FB404 used in \FluxBaserom2\Programs and Tools\blocks\MidwayTapeRespawnsYouAtMidwayEntranceImmediately.asm at line 29 as "!retry_freeram+4"
+    7FB404 used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\KillCheckpointRespawn.asm at line 27 as "$7FB404"
+    7FB404 used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\SilentMidway.asm at line 22 as "!retry_freeram+4"
+
+Freeram conflict 7FC060 was found 3 times:
+    7FC060 used in \FluxBaserom2\Programs and Tools\blocks\InvisibleKaizoBlockNeverReappearsAfterDeath.asm at line 4 as "$7FC060"
+    7FC060 used in \FluxBaserom2\Programs and Tools\blocks\MidwayTapeRespawnsYouAtMidwayEntranceImmediately.asm at line 18 as "$7FC060"
+    7FC060 used in \FluxBaserom2\Programs and Tools\UberASM\Works in Progress, SJC\ConditionalMap16AppearsAfterExit.asm at line 6 as "$7FC060"
+
+Freeram conflict 7E00F3 was found 2 times:
+    7E00F3 used in \FluxBaserom2\Info, Settings, and Assets\Patches\Optional\PhysicsModifier.asm at line 106 as "$F3"
+    7E00F3 used in \FluxBaserom2\Programs and Tools\sprites\GFX9(Grassland)\sumo_lightning_Custom.asm at line 1 as "$F3"
+
+Freeram conflict 7E00FB was found 2 times:
+    7E00FB used in \FluxBaserom2\Programs and Tools\sprites\BounceBubble.asm at line 9 as "$FB"
+    7E00FB used in \FluxBaserom2\Programs and Tools\sprites\GFX2(Forest)\LeafPlat.asm at line 95 as "$FB"
+
+Freeram conflict 7E0DC6 was found 2 times:
+    7E0DC6 used in \FluxBaserom2\Programs and Tools\sprites\ExGFX113(SP3NoChucks)\powerups.asm at line 85 as "!FreeRam+2"
+    7E0DC6 used in \FluxBaserom2\Programs and Tools\UberASM\library\StatusBarItemDisplay.asm at line 24 as "!FreeRam+2"
+
+Freeram conflict 7E1487 was found 2 times:
+    7E1487 used in \FluxBaserom2\Programs and Tools\UberASM\optional\BigMetroidTimer.asm at line 10 as "$1487"
+    7E1487 used in \FluxBaserom2\Programs and Tools\UberASM\Works in Progress, SJC\YoshiConditionsAndAbilities\YoshiConditionStuff.asm at line 1 as "$1487"
+
+Freeram conflict 7E1488 was found 2 times:
+    7E1488 used in \FluxBaserom2\Programs and Tools\UberASM\optional\BigMetroidTimer.asm at line 11 as "!MetroidTimerXpos+1"
+    7E1488 used in \FluxBaserom2\Programs and Tools\UberASM\Works in Progress, SJC\YoshiConditionsAndAbilities\YoshiConditionStuff.asm at line 2 as "$1488"
+
+Freeram conflict 7E14C1 was found 2 times:
+    7E14C1 used in \FluxBaserom2\Programs and Tools\UberASM\library\OverworldSave.asm at line 1 as "$14C1"
+    7E14C1 used in \FluxBaserom2\Programs and Tools\UberASM\optional\BringYoshiEatenItemThroughDoors.asm at line 1 as "$14C1"
+
+Freeram conflict 7E18B7 was found 2 times:
+    7E18B7 used in \FluxBaserom2\Info, Settings, and Assets\Patches\PerLevelPSwitchBulletShooterAndPBalloonTimers(Patch).asm at line 11 as "$18B7"
+    7E18B7 used in \FluxBaserom2\Programs and Tools\UberASM\optional\FlutterJump.asm at line 2 as "$18B7"
+
+Freeram conflict 7FAF00 was found 2 times:
+    7FAF00 used in \FluxBaserom2\Programs and Tools\sprites_pixi_basecode\sa1def.asm at line 191 as "$7FAF00"
+    7FAF00 used in \FluxBaserom2\Programs and Tools\UberASM\retry_config\misc.asm at line 12 as "$7FAF00"
+
+Freeram conflict 7FB400 variation was found 2 times:
+    7FB400 variation used in \FluxBaserom2\Programs and Tools\blocks\MidwayTapeRespawnsYouAtMidwayEntranceImmediately.asm at line 34 as "!retry_freeram_checkpoint,x"
+    7FB400 variation used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\SilentMidway.asm at line 27 as "!retry_freeram_checkpoint,x"
+
+Freeram conflict 7FB40D was found 2 times:
+    7FB40D used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\KillCheckpointRespawn.asm at line 33 as "!freeram_checkpoint+1"
+    7FB40D used in \FluxBaserom2\Programs and Tools\UberASM\asm\work\library.asm at line 853 as "$7FB40D"
+
+Freeram conflict 7FB413 was found 2 times:
+    7FB413 used in \FluxBaserom2\Programs and Tools\blocks\NoGFX\SilentSecondaryCheckpoint.asm at line 2 as "$7FB413"
+    7FB413 used in \FluxBaserom2\Programs and Tools\UberASM\asm\work\library.asm at line 850 as "$7FB413"
+
+Freeram conflict 7FC275 was found 2 times:
+    7FC275 used in \FluxBaserom2\Info, Settings, and Assets\Patches\CustBounceSpritesPATCH.asm at line 2 as "$7FC275"
+    7FC275 used in \FluxBaserom2\Programs and Tools\defines.asm at line 23 as "$7FC275"
+
+Freeram conflict 7FC279 was found 2 times:
+    7FC279 used in \FluxBaserom2\Info, Settings, and Assets\Patches\CustBounceSpritesPATCH.asm at line 3 as "$7FC279"
+    7FC279 used in \FluxBaserom2\Programs and Tools\defines.asm at line 24 as "$7FC279"
+
+Freeram conflict 7FC27D was found 2 times:
+    7FC27D used in \FluxBaserom2\Info, Settings, and Assets\Patches\CustBounceSpritesPATCH.asm at line 9 as "$7FC27D"
+    7FC27D used in \FluxBaserom2\Programs and Tools\defines.asm at line 25 as "$7FC27D"
+

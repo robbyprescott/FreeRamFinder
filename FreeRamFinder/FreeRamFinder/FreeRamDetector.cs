@@ -87,7 +87,7 @@ namespace FreeRamFinder
 
                     if (isTableFormat)
                     {
-                        ignoredLines.Add($"ignored: {line}\n  line {i + 1} in: {filePathRelativeToRoot}");
+                        ignoredLines.Add($"ignored: {line} | line {i + 1} in: {Path.GetFileNameWithoutExtension(filePathRelativeToRoot)}");
                         fileLines[i] = string.Empty; // assign as empty string to remove all at once in the next step -- more efficient than removing as you go
                     }
                 }
