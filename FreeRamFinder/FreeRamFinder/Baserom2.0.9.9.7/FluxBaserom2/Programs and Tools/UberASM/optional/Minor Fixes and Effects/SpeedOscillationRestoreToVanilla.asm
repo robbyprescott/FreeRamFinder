@@ -1,0 +1,4 @@
+load:
+LDA #$01
+STA $0E0D
+RTL

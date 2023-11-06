@@ -1,0 +1,11 @@
+A lot of baserom functions won't work without the patches, obviously.
+But with FluxBase2ButNoPatches.bps, you can exempt specific patches from being applied.
+Once you've patched FluxBase2ButNoPatches.bps and named it FluxBase2.smc, 
+you can go to /Info, Settings, and Assets/Patches/.
+ 
+If you want to exempt a patch from being applied, 
+just open !ApplyAllPatches.bat in a text editor and remove the patches/lines you want.
+Then double-click !ApplyAllPatches.bat to apply them.
+
+(Note that if you do this, though, you also have to temporarily move the rom into the Patches folder. 
+Put it back in the normal/main folder afterwards.)

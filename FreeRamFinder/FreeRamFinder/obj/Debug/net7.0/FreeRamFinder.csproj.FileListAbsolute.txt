@@ -1,0 +1,17 @@
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\bin\Debug\net7.0\FreeRamFinder.exe
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\bin\Debug\net7.0\FreeRamFinder.dll
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\obj\Debug\net7.0\FreeRamFinder.csproj.AssemblyReference.cache
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\obj\Debug\net7.0\FreeRamFinder.Properties.Resources.resources
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\obj\Debug\net7.0\FreeRamFinder.csproj.GenerateResource.cache
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\obj\Debug\net7.0\FreeRamFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\obj\Debug\net7.0\FreeRamFinder.AssemblyInfoInputs.cache
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\obj\Debug\net7.0\FreeRamFinder.AssemblyInfo.cs
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\obj\Debug\net7.0\FreeRamFinder.csproj.CoreCompileInputs.cache
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\obj\Debug\net7.0\FreeRamFinder.dll
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\obj\Debug\net7.0\refint\FreeRamFinder.dll
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\obj\Debug\net7.0\FreeRamFinder.pdb
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\bin\Debug\net7.0\FreeRamFinder.deps.json
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\bin\Debug\net7.0\FreeRamFinder.runtimeconfig.json
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\bin\Debug\net7.0\FreeRamFinder.pdb
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\obj\Debug\net7.0\FreeRamFinder.genruntimeconfig.cache
+C:\Users\Robby\Projects\FreeRamFinder\FreeRamFinder\FreeRamFinder\obj\Debug\net7.0\ref\FreeRamFinder.dll

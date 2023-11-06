@@ -1,0 +1,146 @@
+{
+  "$1656": {
+    "Object Clipping": 0,
+    "Can be jumped on": false,
+    "Dies when jumped on": false,
+    "Hop in/kick shell": false,
+    "Disappears in cloud of smoke": false
+  },
+  "$1662": {
+    "Sprite Clipping": 12,
+    "Use shell as death frame": false,
+    "Fall straight down when killed": false
+  },
+  "$166E": {
+    "Use second graphics page": true,
+    "Palette": 1,
+    "Disable fireball killing": false,
+    "Disable cape killing": true,
+    "Disable water splash": true,
+    "Don't interact with Layer 2": true
+  },
+  "$167A": {
+    "Don't disable cliping when starkilled": false,
+    "Invincible to star/cape/fire/bounce blk.": true,
+    "Process when off screen": false,
+    "Don't change into shell when stunned": false,
+    "Can't be kicked like shell": false,
+    "Process interaction with Mario every frame": true,
+    "Gives power-up when eaten by yoshi": false,
+    "Don't use default interaction with Mario": true
+  },
+  "$1686": {
+    "Inedible": true,
+    "Stay in Yoshi's mouth": false,
+    "Weird ground behaviour": false,
+    "Don't interact with other sprites": true,
+    "Don't change direction if touched": false,
+    "Don't turn into coin when goal passed": true,
+    "Spawn a new sprite": false,
+    "Don't interact with objects": true
+  },
+  "$190F": {
+    "Make platform passable from below": true,
+    "Don't erase when goal passed": false,
+    "Can't be killed by sliding": true,
+    "Takes 5 fireballs to kill": false,
+    "Can be jumped on with upwards Y speed": false,
+    "Death frame two tiles high": true,
+    "Don't turn into a coin with silver POW": true,
+    "Don't get stuck in walls (carryable sprites)": false
+  },
+  "AsmFile": "FlyingCloud.asm",
+  "ActLike": 54,
+  "Type": 1,
+  "Extra Property Byte 1": 0,
+  "Extra Property Byte 2": 0,
+  "Additional Byte Count (extra bit clear)": 2,
+  "Additional Byte Count (extra bit set)": 2,
+  "Map16": "",
+  "Displays": [
+    {
+      "Description": "Flying Horizontal Cloud\\nExtra Byte 1:\\n 00 Fly towards the player when spawned.\\n 01 Fly towards the left.\\n 02 Fly towards the left then right.\\n 03 Fly towards the right.\\n 04 Fly towards the right then left.\\n 05 Fly back and forth first it flies towards the player then goes back to the opposite direction.\\nExtra Byte 2: if clear wave movement, set no wave movement.\n",
+      "ExtraBit": false,
+      "Tiles": [
+        {
+          "X offset": -14,
+          "Y offset": -9,
+          "map16 tile": 6
+        },
+        {
+          "X offset": 8,
+          "Y offset": -9,
+          "map16 tile": 7
+        },
+        {
+          "X offset": -3,
+          "Y offset": 0,
+          "map16 tile": 235
+        }
+      ],
+      "X": 0,
+      "Y": 0,
+      "DisplayText": "",
+      "UseText": false
+    },
+    {
+      "Description": "Flying Vertical Cloud\\nExtra Byte 1:\\n 00 Will Fly up if the player is on the left of the sprite when the sprite is spawned, and will fly down if the player is on the right when the sprite is spawned. \\n 01 Fly up.\\n 02 Fly up then down.\\n 03 Fly down.\\n 04 Fly down then up.\\n 05 if the player is on the left of the sprite when the sprite is spawned, the sprite will go up then down if the player is on the right when spawned it will go down then up.\\n weird stuff will happen if you have any other values\\nExtra Byte 2: if clear wave movement, set no wave movement.",
+      "ExtraBit": true,
+      "Tiles": [
+        {
+          "X offset": -14,
+          "Y offset": -9,
+          "map16 tile": 6
+        },
+        {
+          "X offset": 8,
+          "Y offset": -9,
+          "map16 tile": 7
+        },
+        {
+          "X offset": -3,
+          "Y offset": 0,
+          "map16 tile": 235
+        }
+      ],
+      "X": 0,
+      "Y": 0,
+      "DisplayText": "",
+      "UseText": false
+    }
+  ],
+  "Collection": [
+    {
+      "Name": "Flying Horizontal Cloud",
+      "ExtraBit": false,
+      "Extra Property Byte 1": 0,
+      "Extra Property Byte 2": 0,
+      "Extra Property Byte 3": 0,
+      "Extra Property Byte 4": 0,
+      "Extra Property Byte 5": 0,
+      "Extra Property Byte 6": 0,
+      "Extra Property Byte 7": 0,
+      "Extra Property Byte 8": 0,
+      "Extra Property Byte 9": 0,
+      "Extra Property Byte 10": 0,
+      "Extra Property Byte 11": 0,
+      "Extra Property Byte 12": 0
+    },
+    {
+      "Name": "Flying Vertical Cloud",
+      "ExtraBit": true,
+      "Extra Property Byte 1": 0,
+      "Extra Property Byte 2": 0,
+      "Extra Property Byte 3": 0,
+      "Extra Property Byte 4": 0,
+      "Extra Property Byte 5": 0,
+      "Extra Property Byte 6": 0,
+      "Extra Property Byte 7": 0,
+      "Extra Property Byte 8": 0,
+      "Extra Property Byte 9": 0,
+      "Extra Property Byte 10": 0,
+      "Extra Property Byte 11": 0,
+      "Extra Property Byte 12": 0
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+main:
+LDA #$01
+STA $0E21
+RTL

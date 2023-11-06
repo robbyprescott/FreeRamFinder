@@ -1,0 +1,229 @@
+; Sprite numbers 0 - 1F are free (32 sprites total). 
+
+20 PlasmaShooter.json
+21 ExGFX113(SP3NoChucks)/powerup_hammer.cfg
+22 ExGFX113(SP3NoChucks)/powerup_boomerang.cfg
+23 ExGFX113(SP3NoChucks)/powerup_shuriken.cfg
+24 ExGFX113(SP3NoChucks)/powerup_ice.cfg
+25 ExGFX113(SP3NoChucks)/powerup_bubble.cfg
+26 ExGFX113(SP3NoChucks)/IceBlock.cfg
+27 BulletBullXSpeedExtraByte.json
+28 ClusterAtmosphereEffects.json
+29 SpriteOffsetter.json
+2A SpriteKiller-Invisible.json
+2B CustomBill.json
+2C StationaryFlyingParakoopa.json
+2D TurnblockBridgeExpandsVerticallyFirstEtc.json
+2E CustomThrowBlock.json
+2F door.json
+30 ExtendedSpriteKiller.json
+31 FireBar.json
+32 Flyin_Disco_Shell.json
+33 FlyingHammerBroPlatformCustomizable.json
+34 FlyingHammerBroPlatformGoesLeftFirst.json
+35 FlyingPowerups.json
+36 GreyFallingPlatformVanilla.json
+37 GreyPlatformOnOffToggled.json
+38 GreyRisingPlatform.json
+39 HammerBroPlatformOnlyStartsMovingOnceMarioTouches.json
+3A KeyholeUsesScreenExit.json
+3B LakituCloudInfiniteTimer.json
+3C Key-CantStandOn.json
+3D BabyYoshi.json
+3E MessageBox.json
+3F NoGravityCarryableOrBumpableShell.json
+40 Orb.json
+41 pipe_generator_vertical.json
+42 pipe_generator_horizontal.json
+43 pipe_generator_custom_triggerA.json
+44 pipe_generator_custom_triggerB.json
+45 P-SwitchDisassembly.json
+46 ShellDoesntInteractWithOtherSprites.json
+47 ConditionalBulletShooter.json
+48 ColorYoshi.json
+49 CustomizableFlyingQuestionBlock.json
+4A CustomizableTurnBlockBridge.json
+4B CustomizableTurnBlockBridgeExample.json
+4C GFX2(Forest)/AllDirectionsSmallGrowingPipe.json
+4D GFX2(Forest)/Bobomb_dis.json
+4E BounceBubble.json
+4F BounceBubbleStationaryWater.json
+50 !platform_megapack/platform_megapack.json
+
+51 GFX2(Forest)/bouncing_spiny_egg.json
+52 GFX2(Forest)/BubbleWithCustomSprite.json
+53 GFX2(Forest)/CustomizablePipeLakituThrowsSprites.json
+54 GFX2(Forest)/growing_pipe_49.json
+55 GFX2(Forest)/LeafPlat.json
+56 GFX2(Forest)/mushroom_block.json
+57 GFX2(Forest)/ParachuteSpiny.json
+58 GFX2(Forest)/FlyingSpiny.json
+59 GFX2(Forest)/rotten_mushroom.json
+5A GFX2(Forest)/PoisonMushroom.json
+5B GFX2(Forest)/SpinyShell.json
+5C GFX2(Forest)/WigglerCustomizableSegments.json
+
+5D GFX20(Grassland)/BanzaiBillNormalTileset.json
+5E GFX20(Grassland)/MultiBounceShellGreen.json
+5F GFX20(Grassland)/RexWithCustomOptions.json
+60 GFX20(Grassland)/TimedPlatform-AnyTimeAndDirection.json
+61 GFX20(Grassland)/TimedCarrotLift.json 
+
+62 ExGFX101(SP2Custom)/CarryableSpriteKiller.json
+63 ExGFX101(SP2Custom)/CarryableSpriteShooter.json
+64 ExGFX101(SP2Custom)/CementBlockSprite.json
+65 ExGFX101(SP2Custom)/CustomizableJumpingPiranhaPlants.json
+66 ExGFX101(SP2Custom)/RotatingVine.json
+67 ExGFX101(SP2Custom)/SpecialBerry.json
+
+68 GFX3(Castle)/CustomizableBallAndChain.json
+69 GFX3(Castle)/CustomizableFallingSpike.json
+6A GFX3(Castle)/DiagonalThwompAnyDirectionExtraBit.json
+6B GFX3(Castle)/DryBones-ExtraBit.json
+6C GFX3(Castle)/MiniThwomp.json
+6D GFX3(Castle)/PendulumSwingingBallNChain.json
+6E GFX3(Castle)/Podoboo-UpsideDownIfExtraBit.json
+6F GFX3(Castle)/ProgrammableCastleMovingBlock.json
+70 GFX3(Castle)/thwomps.json
+71 GFX3(Castle)/rotating_platformorsprite_spawner.json
+72 GFX3(Castle)/stationary_magikoopa.json
+
+73 GFX5(RopesSaws)/CustomLineGuidedRope.json
+74 GFX5(RopesSaws)/CustomMushroomScalePlatforms.json
+75 GFX5(RopesSaws)/FlyingRopeMachine.json
+76 GFX5(RopesSaws)/SingleScaleMushroomPlat.json
+
+77 GFX6(SP3WaterAndGhost)/TorpedoTed.json
+
+78 GFX9(Grassland)/CustomizableSuperKoopas.json
+79 GFX9(Grassland)/CustomizableVolcanoLotus.json
+7A GFX9(Grassland)/MontyMoleCUSTOM.json
+
+; DO NOT USE 7B 
+
+7C GFX11(Ghost)/BooRing.json
+7D GFX11(Ghost)/custom_green_bubble.json
+7E GFX11(Ghost)/DivisibleBoo.json
+7F GFX11(Ghost)/FishingBooWithAnySprite.json
+80 GFX11(Ghost)/MovingHole.json
+
+81 GFX12(SP3Castle)/BowserStatueExtraBit.json
+82 GFX12(SP3Castle)/GrinderLineGuided-DirectionExtraBit.json
+83 GFX12(SP3Castle)/Grinder-NoSFX.json
+84 GFX12(SP3Castle)/NetKoopasCustomizable-Horizontal.json
+85 GFX12(SP3Castle)/NetKoopasCustomizable-Vertical.json
+86 GFX12(SP3Castle)/RotatingGrayPlatformForGFX12.json
+87 GFX12(SP3Castle)/RotatingPendulumPlatformForGFX12.json
+; These next two necessary?
+88 GFX12(SP3Castle)/SparkyFuzzyHothead.json
+89 GFX12(SP3Castle)/WoodenSpike.json
+
+8A GFX13(SP3)/RotatingGrayPlatform.json
+8B GFX13(SP3)/RotatingPendulumPlatformForGFX13.json
+
+8C GFX23(MainlyDinos)/bumpty.json
+8D GFX23(MainlyDinos)/Dino_Rhino.json
+8E GFX23(MainlyDinos)/Dino_Torch.json
+
+8F GFX9(Grassland)/sumo_lightning_Custom.json
+
+90 GFX31(SP2)/BowsersBowlingBall.json
+
+91 ExGFX104(CustomCave)/piranha_venus_all.json
+
+92 ExGFX106(CustomForest)/BanzaiBillForestTileset.json
+
+93 !NeedsMultipleGFXFiles/CustomizablePitchinChuck.json
+
+94 !AnySpriteAndSpriteStackingStuff/AnySpriteBooRing.json
+95 !AnySpriteAndSpriteStackingStuff/AnySpriteGenerator.json
+96 !AnySpriteAndSpriteStackingStuff/Bouncing_AnySprite.json
+97 !AnySpriteAndSpriteStackingStuff/CloudCarriesSprite.cfg
+98 !AnySpriteAndSpriteStackingStuff/Disco_AnySprite.json
+99 !AnySpriteAndSpriteStackingStuff/Lineguided_AnySprite.json
+9A !AnySpriteAndSpriteStackingStuff/SpawnAnySpriteFromPipe.json
+9B !AnySpriteAndSpriteStackingStuff/SpriteStacker.json
+9C !AnySpriteAndSpriteStackingStuff/SpriteStackCustomWrapper.json
+9D !AnySpriteAndSpriteStackingStuff/XorYLockedPosition_AnySprite.json
+
+9E GFX0F(CastleGhostIntro)/GhostHouseEntranceDoor.json
+9F GFX0F(CastleGhostIntro)/CastleEntranceDoor.json
+
+A0 GFX0A(SP3)/CustomLemmyWendy.json
+
+A1 !ExtendingBlocks/blocksprU.cfg
+A2 !ExtendingBlocks/blocksprD.cfg
+A3 !ExtendingBlocks/blocksprL.cfg
+A4 !ExtendingBlocks/blocksprR.cfg
+
+A5 ExGFX113(SP3NoChucks)/BoomerangBro.json
+A6 ExGFX113(SP3NoChucks)/FireBro.json
+A7 ExGFX113(SP3NoChucks)/FlyingCloud.json
+A8 ExGFX113(SP3NoChucks)/LimitedUseSpring.json
+A9 ExGFX113(SP3NoChucks)/POOT.json
+AA ExGFX113(SP3NoChucks)/reverse_donut.json
+
+AB ExGFX108(ParaBeetleSP4)/para_beetle.json
+
+AC InfiniteThrowblock.json
+AD FallingDonutBlock.json
+
+AE GFX3(Castle)/ProgrammableCastleMovingBlock-SmallVersion.json
+AF GFX24(BowserStuffAndMechakoopa)/BouncingBowserFlame.json
+B0 GFX24(BowserStuffAndMechakoopa)/wild_mechakoopa.json
+B1 springcustomizable.json
+B2 ExGFX112(SP3CastleAlt)/BowserStatueCustomFire.json
+
+B3 LevelHubCursorMain.cfg
+B4 LevelHubCursor.cfg
+
+B5 GFX4(Underground)/StationarySwooper.json
+B6 GFX13(SP3)/CarryableHatchableYoshiEgg.json
+B7 GFX12(SP3Castle)/NetSparky.json
+
+B8 ExGFX103(SP2)/MeterSprite.json
+B9 crystal_tap.json
+BA sparkling.cfg
+BB ExtendedShooter.json
+BC GFX5(RopesSaws)/rope.json
+BD gate_vert_solid.json
+BE GFX13(SP3)/BrownPlatformFastFalling.json
+BF ExGFX107PlayerClone(SP4)/cosmic_clone.json
+
+; Do not use C0-CF unless it's a shooter, or D0-DF unless it's a generator
+
+D0 SpriteMist.cfg
+D1 DoThingWhenSound.cfg
+D2 FireballOrCapeSoundCheck.cfg
+D3 EnemyScoreCounterIncrement.cfg
+; D4 MuteASound.cfg
+
+;E1 GFX2(Forest)/StationarySpiny.json
+
+EXTENDED:
+00 Projectile_hammer.asm
+01 Projectile_boomerang.asm
+02 Projectile_shuriken.asm
+03 Projectile_iceball.asm
+04 Projectile_bubble.asm
+05 volcano_lotus_pollen.asm
+06 fireball_plus.asm
+07 Baseball.asm
+08 boomerang.asm
+09 WaterBubble.asm
+0A fireball.asm 
+; (The above used by fire bro, for example.)
+0B FireRipVanFishs_Fire_Remnant.asm
+; 0C 
+0D YoshiFireball.asm
+
+CLUSTER:
+00 fish.asm
+01 flowers.asm
+02 rain.asm
+03 sandstorm.asm
+04 CandleFlame_Layer3.asm
+05 bullet.asm
+06 BowserFire.asm
+07 cosmic_cloud.asm
+08 cosmic_cloud_drop.asm

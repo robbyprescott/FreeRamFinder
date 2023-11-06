@@ -1,0 +1,12 @@
+#jsr reset_tempo
+
+#asm reset_tempo
+{
+    mov a, #$0C ; Make sure this is the same as in slowdown_tempo (but positive)
+    clrc
+    adc a, $51
+    call L_0E14+3
+    mov a, #$00
+    mov $0387, a
+    ret
+}

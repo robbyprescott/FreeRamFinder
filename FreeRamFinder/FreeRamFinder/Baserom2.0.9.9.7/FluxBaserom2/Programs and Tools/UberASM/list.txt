@@ -1,0 +1,59 @@
+verbose: on
+
+; UberASM Tool code list.
+; You can use the same .asm file for multiple levels/OW/etc. for saving space.
+
+; Level list. Valid values: 000-1FF.
+level:
+139  RestoreFullStatusBar.asm
+13A  LevelHubStuff.asm
+13B  LevelHubStuff.asm
+13C  LevelHubStuff.asm
+A1  MusicPlaylist.asm
+A3  ShootingPowerups.asm
+A4  KeyJumpCounter.asm
+A7  ShellClimb.asm
+; A8  FireSmallMarioOnPowerupOrTrigger.asm
+; AB  Layer2VisualToggleOnOffIfHoldingLorR.asm
+; AC  ToggleableInputDisplayLevelFile.asm
+; B0  ScoreOnly_LevelFile.asm
+; B1  normal_layer_3_tide.asm
+B4  SpriteMistTranslucent.asm
+; B5  TimerOnly.asm
+; SlowdownToggleWithLorR.asm
+
+;138 RNGRoomRandomizer.asm
+;51 RNGRoomRandomizer.asm
+;52 RNGRoomRandomizer.asm
+;53 RNGRoomRandomizer.asm
+;54 RNGRoomRandomizer.asm
+
+; OW list. Valid values: 0 = Main map; 1 = Yoshi's Island; 2 = Vanilla Dome;
+; 3 = Forest of Illusion; 4 = Valley of Bowser; 5 = Special World; and
+; 6 = Star World.
+overworld:
+; Insert files here
+
+; Game mode list. Valid values: 00-FF.
+gamemode:
+    03 retry_gm03.asm
+	05 gm05.asm
+	07 ScreenScrollingPipes.asm
+    0C gm0C.asm
+    0D gm0D.asm
+	0E gm0E.asm
+    0F gm0F.asm
+    10 retry_gm10.asm
+    11 retry_gm11.asm
+    12 retry_gm12.asm
+    13 retry_gm13.asm
+    14 gm14.asm
+	15 retry_gm15.asm
+    16 retry_gm16.asm
+    19 retry_gm19.asm
+
+global:		other/global_code.asm	; global code.
+statusbar:	other/status_code.asm	; status bar code.
+macrolib:	other/macro_library.asm	; macro library.
+sprite:		$7FAC80			; 38 (SNES) or 68 (SA-1) bytes of free RAM.
+rom:		../../FluxBase2.smc			; ROM file to use.
